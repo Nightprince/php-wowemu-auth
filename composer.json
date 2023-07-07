@@ -1,5 +1,5 @@
 {
-    "name": "laizerox/php-wowemu-auth",
+    "name": "nightprince/php-wowemu-auth",
     "type": "library",
     "description": "Wowemu compliant SRP6 auth implementation",
     "license": "GPL-3.0-or-later",
