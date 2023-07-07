@@ -11,7 +11,7 @@
 You can install the libary via composer:
 
 ``` bash
-composer require laizerox/php-wowemu-auth
+composer require nightprince/php-wowemu-auth
 ```
 
 ## Usage
